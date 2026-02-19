@@ -33,8 +33,8 @@ const projects: Project[] = [
     description:
       "A Heart Monitoring Web Application providing real-time heart rate tracking, health analytics, and personalized insights for proactive health management.",
     tech: ["React.js", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL", "REST APIs", "Auth"],
-    github: "https://github.com/Rushikesh743-maker/heart-sight-app",
-    live: "https://heart-sight-app.vercel.app/",
+    github: "https://github.com/Rushikesh743-maker/Heart-sight",
+    live: "https://heart-sight.vercel.app/",
     image: projectHeartsight,
   },
   {
